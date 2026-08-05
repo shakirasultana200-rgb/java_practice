@@ -1,1 +1,2 @@
-//The swapped flag checks whether any elements were exchanged during a pass through the array. If no swaps occur, the array is already sorted, so the algorithm stops immediately instead of making unnecessary passes. This improves efficiency for already sorted or nearly sorted arrays, although the worst-case time complexity of bubble sort remains O(n²).
+//The swapped flag checks whether any elements were exchanged during a pass through the array. If no swaps occur, the array is already sorted,
+//  so the algorithm stops immediately instead of making unnecessary passes. This improves efficiency for already sorted or nearly sorted arrays, although the worst-case time complexity of bubble sort remains O(n²).
