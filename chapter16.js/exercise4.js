@@ -1,0 +1,2 @@
+//shift() is O(n) because removing the first element requires JavaScript to move every remaining element one position to the left. As the array gets larger,//
+//  this takes more time. A circular queue avoids this by keeping track of the front and rear positions instead of moving elements. This allows enqueue and dequeue operations to run in O(1) time, making it much more efficient for large queues.
